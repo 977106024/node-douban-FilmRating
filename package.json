@@ -1,7 +1,7 @@
 {
-  "name": "node-cli",
-  "version": "1.0.0",
-  "description": "",
+  "name": "film-x",
+  "version": "1.0.1",
+  "description": "豆瓣评分命令行工具",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,8 +9,12 @@
   "bin": {
     "film": "./index.js"
   },
-  "keywords": [],
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/977106024/node-douban-FilmRating"
+  },
+  "keywords": ["film"],
+  "author": "bohong",
   "license": "ISC",
   "dependencies": {
     "chalk": "^4.1.0",
