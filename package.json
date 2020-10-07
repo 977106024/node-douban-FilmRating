@@ -1,6 +1,6 @@
 {
   "name": "film-x",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "豆瓣评分命令行工具",
   "main": "index.js",
   "scripts": {
